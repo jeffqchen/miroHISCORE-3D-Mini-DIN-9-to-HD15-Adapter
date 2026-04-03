@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Mini-DIN-9,9DIN Female,120.599999,-54.475,90.0,top
+P1,VGA,DSUB-15-HD_Pins_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm,124.13,-83.5,-90.0,top
+REF**,M3 Screw Hole,M3 Screw Hole,132.85,-49.7,0.0,top
+REF**,M3 Screw Hole,M3 Screw Hole,132.85,-96.7,0.0,top
