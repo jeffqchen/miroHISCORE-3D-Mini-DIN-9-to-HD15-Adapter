@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "10.0.0"
     },
-    "CreationDate": "2026-04-03T13:38:21-04:00"
+    "CreationDate": "2026-04-03T15:27:03-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "miroHISCORE Adapter",
       "GUID": "6d69726f-4849-4534-934f-524520416461",
-      "Revision": "rev?"
+      "Revision": "1.0"
     },
     "Size": {
       "X": 23.0608,
