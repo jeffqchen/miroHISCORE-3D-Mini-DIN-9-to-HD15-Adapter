@@ -38,7 +38,7 @@ Drill 29mm from center of VGA port, a hole of 11 mm diameter.
 
 #### 3D Printed Bracket
 
-The 3D printed bracket needs to be bent towards the groove with hot air to become useable. 
+The 3D printed bracket needs to be bent towards the groove with hot air to become usable. 
 
 ### Final Assembly
 
