@@ -30,7 +30,7 @@ Populate the PCB with the two ports.
 
 ### VGA Bracket
 
-Drill 29mm from center of VGA port, a hole of 11 mm diameter.
+Drill 29mm from center of VGA port, a hole of 11-12 mm diameter.
 
 <img width="600" src="https://github.com/user-attachments/assets/a97b819c-81b1-4785-ab01-099a2cbe90d5" />
 
