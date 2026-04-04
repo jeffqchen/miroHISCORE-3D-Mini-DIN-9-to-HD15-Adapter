@@ -54,8 +54,18 @@ Connect the 2D VGA card to the daughter card with a Voodoo passthrough card.
 
 Connect the VGA output of the miroHISCORE 3D card to the display.
 
+## Technical Detains
+
+I found this pin definition on The Retro Web, which turned out to be correct.
+
+<img width="600" src="https://github.com/user-attachments/assets/d05c6ece-0d7c-4b3b-b475-98a27c844662" />
+
+## Special Thanks
+
+The Retro Web - [Link](https://theretroweb.com/expansioncards/s/miro-mirohiscore-2-3d)
 
 --------
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
