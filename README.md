@@ -5,6 +5,8 @@
 
 The miroHISCORE 3D line of 3Dfx Voodoo 1 & 2 cards use a proprietary Mini DIN 9 pin connector to route the output signal of the 2D video card to the Voodoo card. This cable is often missing after many decades. Therefore, I've created this adapter board to convert the DIN connector to a standard male VGA port, so an ordinary Voodoo passthrough cable can be used.
 
+Note: This adapter is also compatible with the Canopus Pure3d line of Voodoo cards.
+
 ## Parts
 
 Main:
