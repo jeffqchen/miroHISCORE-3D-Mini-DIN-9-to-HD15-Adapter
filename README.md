@@ -36,6 +36,10 @@ Drill 29mm from center of VGA port, a hole of 11 mm diameter.
 
 *(The hole in my photo is obviously off)*
 
+#### 3D Printed Bracket
+
+The 3D printed bracket needs to be bent towards the groove with hot air to become useable. 
+
 ### Final Assembly
 
 Undo the hex nuts from the VGA port with a 3/16 socket, insert the VGA port through the back of the bracket, and tighten the nuts back on.
