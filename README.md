@@ -18,6 +18,7 @@ Accessories:
 - Mini DIN 9 Pin Cable, Male Pin, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Cable/Mini%20DIN/9%20Pin/%20Male/Straight/info.md)
   - Buy one as short as possible. Mine is 1 meter.
 - VGA bracket - With the VGA port opening near the middle.
+  - (Optional) 3D Printed bracke - [Link](https://github.com/jeffqchen/miroHISCORE-3D-Mini-DIN-9-to-HD15-Adapter/blob/main/3D%20Print/miroHISCORE%203D%20Daughter%20Board%20Bracket.stl)
 
 ## Assembly
 
