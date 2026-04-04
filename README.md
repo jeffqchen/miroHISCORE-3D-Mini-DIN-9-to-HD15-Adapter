@@ -15,7 +15,8 @@ Main:
 
 Accessories:
 
-- Mini DIN 9 Pin, Male Pin, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Cable/Mini%20DIN/9%20Pin/%20Male/Straight/info.md)
+- Mini DIN 9 Pin Cable, Male Pin, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Cable/Mini%20DIN/9%20Pin/%20Male/Straight/info.md)
+  - Buy one as short as possible. Mine is 1 meter.
 - VGA bracket - With the VGA port opening near the middle.
 
 ## Assembly
